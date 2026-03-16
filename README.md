@@ -1,2 +1,2 @@
 # soccer_analysis
-Analyzing soccer goal trends
+This project analyzes the goal trends from the English Premier League
